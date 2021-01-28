@@ -2,3 +2,11 @@ body {
   /* testing css link*/
   background-color: darksalmon;
 }
+
+.special {
+  border: 3px solid rgb(223, 13, 66);
+}
+
+h1.special {
+  background-color: fuchsia;
+}
