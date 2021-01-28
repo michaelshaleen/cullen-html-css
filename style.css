@@ -7,6 +7,8 @@ body {
   border: 3px solid rgb(223, 13, 66);
 }
 
-h1.special {
+h1.special,
+li:first-child {
   background-color: fuchsia;
+  border: 1px solid blue;
 }
